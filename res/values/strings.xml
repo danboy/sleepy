@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Sleepy</string>
+	<string name="main_title">sleepy</string>
+	<string name="about_label">About</string>
+	<string name="about_title">About Sleepy</string>
+	<string name="about_shortcut">a</string>
+	<string name="about_text">\
+	I\'m making this app.
+	</string>
+	<string name="settings_label">Settings...</string>
+	<string name="settings_title">Sleepy settings</string>
+	<string name="settings_shortcut">s</string>
+	<string name="music_title">Time</string>
+	<string name="music_summary">24 hour clock?</string>
+	<string name="hints_title">RSS</string>
+	<string name="hints_summary">Simple RSS</string>
+	<string name="add_title">Add a feed.</string>
+	<string name="feed_title">feeds</string>
+	<string name="feed_text">feeds</string>
+	<string name="add_button">add</string>
+	<string name="add_shortcut">+</string>
+	<string name="empty">nothing here</string>
+</resources>
+
