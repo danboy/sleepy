@@ -16,22 +16,10 @@
       android:text=": "
       android:layout_toRightOf="@id/rowid" />
    <TextView
-      android:id="@+id/time"
-      android:layout_width="wrap_content"
-      android:layout_height="wrap_content"
-      android:layout_toRightOf="@id/rowidcolon" />
-   <TextView
-      android:id="@+id/timecolon"
-      android:layout_width="wrap_content"
-      android:layout_height="wrap_content"
-      android:text=": "
-      android:layout_toRightOf="@id/time" />
-   <TextView
       android:id="@+id/title"
       android:layout_width="fill_parent"
       android:layout_height="wrap_content"
       android:ellipsize="end"
       android:singleLine="true"
-      android:textStyle="italic"
-      android:layout_toRightOf="@id/timecolon" />
+      android:layout_toRightOf="@id/rowidcolon" />
 </RelativeLayout>

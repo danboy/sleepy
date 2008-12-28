@@ -17,19 +17,17 @@ public final class R {
         public static final int icon=0x7f020000;
     }
     public static final class id {
-        public static final int about=0x7f08000c;
+        public static final int about=0x7f08000a;
         public static final int about_content=0x7f080000;
-        public static final int add=0x7f080009;
+        public static final int add=0x7f080007;
         public static final int add_button=0x7f080002;
-        public static final int clock_text=0x7f080008;
+        public static final int clock_text=0x7f080006;
         public static final int feed_url=0x7f080001;
-        public static final int feeds=0x7f08000b;
+        public static final int feeds=0x7f080009;
         public static final int rowid=0x7f080003;
         public static final int rowidcolon=0x7f080004;
-        public static final int settings=0x7f08000a;
-        public static final int time=0x7f080005;
-        public static final int timecolon=0x7f080006;
-        public static final int title=0x7f080007;
+        public static final int settings=0x7f080008;
+        public static final int title=0x7f080005;
     }
     public static final class layout {
         public static final int about=0x7f030000;

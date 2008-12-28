@@ -17,9 +17,9 @@ import android.database.Cursor;
 import android.widget.SimpleCursorAdapter;
 
 public class Feeds extends ListActivity{
-	private static String[] FROM = { _ID, TIME, TITLE, };
-	private static String ORDER_BY = TIME + " DESC";
-	private static int[] TO = { R.id.rowid, R.id.time, R.id.title, };
+	private static String[] FROM = { _ID, TITLE, };
+	private static String ORDER_BY = TIME;
+	private static int[] TO = { R.id.rowid, R.id.title, };
 	 @Override
 	    protected void onCreate(Bundle savedInstanceState) {
 			super.onCreate(savedInstanceState);
